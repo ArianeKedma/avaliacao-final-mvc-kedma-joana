@@ -7,13 +7,21 @@ Um serviço desenvolvido em Java que tem como objetivo desenvolver um sistema de
 📒 Sumário
 
 🚩 Equipe
+
 ⚙ Tecnologias e Ferramentas
+
 📑 Funcionalidades
+
 💾 Como executar o projeto
+
 📱 Pré-requisitos
+
 🧩 Links Importantes
+
 🪄 Projeto
+
 ⭐ Professor
+
 🚀 Contatos
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
