@@ -29,6 +29,7 @@ Um serviço desenvolvido em Java que tem como objetivo desenvolver um sistema de
 🚩 Equipe
 
 Joana Jensen Schifter
+
 Ariane Kedma Silva
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -59,9 +60,9 @@ Navegador: Independente de qual seja sua preferência, é necessário que possua
 
 🧩 Links Importantes
 
-Repositório:
+Repositório: https://github.com/ArianeKedma/avaliacao-final-mvc-kedma-joana/blob/main/README.md
 
-Link para o acessar o material para consulta:https://spotty-nutria-708.notion.site/Arquitetura-de-Sistemas-1eb3bb4536268006a807c696b3aba688
+Link para o acessar o material para consulta: https://spotty-nutria-708.notion.site/Arquitetura-de-Sistemas-1eb3bb4536268006a807c696b3aba688
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
