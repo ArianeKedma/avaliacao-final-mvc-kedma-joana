@@ -60,6 +60,7 @@ Navegador: Independente de qual seja sua preferência, é necessário que possua
 🧩 Links Importantes
 
 Repositório:
+
 Link para o acessar o material para consulta:https://spotty-nutria-708.notion.site/Arquitetura-de-Sistemas-1eb3bb4536268006a807c696b3aba688
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
