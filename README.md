@@ -86,8 +86,11 @@ Matheus Quost
 Ariane Kedma Silva:
 
 Github: https://github.com/ArianeKedma
+
 Gmail: ariane_k_silva@estudante.sesisenai.org.br
 
 Joana Jensen Schifter:
+
 Github: https://github.com/JoanaPixel
+
 Gmail: joana_schifter@estudante.sesisenai.org.br
